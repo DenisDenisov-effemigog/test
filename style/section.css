@@ -1,0 +1,38 @@
+.banner{
+    width: 100%;
+}
+.section__container{
+    position: relative;
+}
+.section__banner{
+    background-color: #e79796;
+    height: 245px;
+}
+.main{
+    background-color: #e8e8e8;
+    padding: 20px;
+}
+.main__title{
+    padding-top: 25px;
+}
+.main__decs, .main__stock{
+    width: 50%;
+
+}
+.desc__paragraph{
+    padding-top: 20px;
+}
+.stock__desc{
+    background: url(../img/icon.svg) left center no-repeat;
+    background-size: 15px;
+    padding-left: 20px;
+    
+}
+.stoke__title{
+    font-size: 14px;
+    text-decoration: underline;
+    padding-top: 20px;
+}
+.footnote__paragraph{
+    padding-top: 20px;
+}

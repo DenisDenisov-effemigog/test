@@ -1,0 +1,41 @@
+.absolute__block{
+    position: absolute;
+    top: 251px;
+    right: 19px;
+    width: 193px;
+    padding: 15px;
+    height: 370px;
+    background-color: #fff;
+}
+.block__top{
+    border-bottom: 1px solid #ccc;
+}
+.red_span{
+    color: #ff1a2a;
+    font-size: 18px;
+    font-weight: bold;
+}
+.block__bottom{
+    padding-top: 30px;
+    text-align: center;
+
+}
+.price{
+    width: 100%;
+}
+.pic{
+    padding-top: 20px;
+}
+.button{
+    width: 90px;
+    height: 20px;
+    background-color: #ff1a2a;
+    font-size: 8px;
+    border: none;
+    color: #fff;
+    cursor: pointer;
+}
+.top__two{
+    padding-top: 20px;
+    display: flex;
+}
